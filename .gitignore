@@ -1,0 +1,17 @@
+# Ignore virutal environment
+venv/
+
+# Ignore SQLite database files
+sqlite_db/
+
+# Ignore IDE/project-specific files
+.vscode/
+.idea/
+
+# Ignore logs and cache
+*.log
+__pycache__/
+*.pyc
+
+# Ignore .DS_Store file
+.DS_Store
